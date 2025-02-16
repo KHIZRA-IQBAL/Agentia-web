@@ -18,7 +18,7 @@ export default function Agents() {
         Meet Our AI Agents
       </h1>
       <p className="text-lg max-w-2xl text-center mb-12 text-gray-300">
-        Our AI Agents are tailored to meet various needs, whether it's customer support,
+        Our AI Agents are tailored to meet various needs, whether it&apos;s customer support,
         automation, or data analysis.
       </p>
 
